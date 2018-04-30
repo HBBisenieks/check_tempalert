@@ -3,6 +3,9 @@
 # Nagios plugin to check temperature data from
 # Temperature @lert networked temperature logging
 # device
+#
+# This software is released under an MIT license
+# copyright (c) 2018 Hilary B. Bisenieks
 
 import urllib2
 import xml.etree.ElementTree as ET
